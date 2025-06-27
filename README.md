@@ -253,10 +253,12 @@ Want to add a new language? We'd love your help!
 
 ### Get Sleep Sounds App on your device
 
-<a href="#"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Get it on Google Play" height="60"/></a>
-<a href="#"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="Download on the App Store" height="60"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.brazuca.music_for_sleep"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Get it on Google Play" height="60"/></a>
 
-*Coming soon to app stores*
+<a href="#"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="Download on the Apple Store" height="60"/></a>
+
+
+*Coming soon to Apple stores*
 
 </div>
 
@@ -316,7 +318,7 @@ Your privacy is important to us. Our app:
 - 🎯 **Anonymous ads**
 - 🔒 **Secure by design**
 
-Read our full [Privacy Policy](https://maurodev16.github.io/mussic-for-sleep-app-privacy-policy/)
+Read our full [Privacy Policy](https://maurodev16.github.io/music-for-sleep-privacy-policy/)
 
 ---
 
